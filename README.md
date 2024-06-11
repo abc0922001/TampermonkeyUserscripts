@@ -150,7 +150,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/abc0922001/TampermonkeyUserscripts/raw/main/src/ChatGPTDoubleClickEdit.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
+        <a href="https://github.com/abc0922001/TampermonkeyUserscripts/raw/dev/src/ChatGPTDoubleClickEdit.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
       </td>
       <td>ChatGPT: 滑鼠雙擊編輯提示文字</td>
       <td>
@@ -186,7 +186,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/abc0922001/TampermonkeyUserscripts/raw/main/src/ChatGPTCommonPrompts.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
+        <a href="https://github.com/abc0922001/TampermonkeyUserscripts/raw/dev/src/ChatGPTCommonPrompts.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
       </td>
       <td>ChatGPT: 在回應結果的地方加入常見提示回應按鈕</td>
       <td>
